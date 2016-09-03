@@ -1,3 +1,4 @@
+ 
  # git_example0903
 
 learning how to use git
@@ -9,5 +10,5 @@ learning how to use git
 *Jone Doe -john.doe@duke.edu
 
 *Jane Doe -jane.doe@duke.edu
-
-
+*Tyler Rundel - trundel@gamil.com
+*Tyler Rundel - trundel@hotmail.com
