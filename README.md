@@ -10,4 +10,5 @@ learning how to use git
 
 *Jane Doe -jane.doe@duke.edu
 
+*ding ding@duke.eduø
 
